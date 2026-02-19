@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Dataflow",
+    "displayName": "Dummy Data Upload"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7dca8933-e078-bb61-4c1d-0af6a21730be"
+  }
+}

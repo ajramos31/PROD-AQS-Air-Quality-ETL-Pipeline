@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "AQI Dashboards"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1e1d8687-6252-852f-4334-b69808fede34"
+  }
+}
